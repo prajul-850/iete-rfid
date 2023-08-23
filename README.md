@@ -1,1 +1,1 @@
-Code related to the treasure hunt to be held by IETE
+Code for treasure hunt to be held by IETE
